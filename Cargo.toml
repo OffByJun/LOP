@@ -1,0 +1,11 @@
+[package]
+name = "LOP"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name="LOP"
+path="src/mincoin.rs"
+# write here the path of works xd
