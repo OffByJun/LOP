@@ -1,6 +1,4 @@
-mod Tools;
-
-use Tools::reader;
+use crate::Tools::reader;
 
 fn main() {
     let input_str = reader::read::<i32>(Some("정수 숫자를 입력해주세요."));

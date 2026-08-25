@@ -1,7 +1,5 @@
 ﻿use crate::Tools::reader;
 
-mod Tools;
-
 fn main() {
     let array = reader::read::<String>(Some("목표치를 입력해주세요"));
     let input = reader::read::<String>(Some("숫자를 입력해주세요"));

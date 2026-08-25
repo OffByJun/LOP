@@ -4,8 +4,9 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+rand = "0.10.2"
 
 [[bin]]
 name="LOP"
-path="src/mincoin.rs"
+path="src/main.rs"
 # write here the path of works xd

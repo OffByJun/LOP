@@ -1,7 +1,5 @@
 ﻿use crate::Tools::reader;
 
-mod Tools;
-
 fn main() {
     let input = reader::read::<i32>(Some("숫자를 입력해주세요!"));
 
