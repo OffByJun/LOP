@@ -1,4 +1,4 @@
-﻿use crate::Tools::reader;
+﻿use Lib::reader;
 
 fn main() {
     let array = reader::read::<String>(Some("목표치를 입력해주세요"));

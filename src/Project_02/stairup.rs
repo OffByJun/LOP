@@ -1,4 +1,4 @@
-﻿use crate::Tools::reader;
+﻿use Lib::reader;
 
 fn main() {
     let input = reader::read::<usize>(Some("계단의 높이 :"));

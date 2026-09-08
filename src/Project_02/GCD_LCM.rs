@@ -1,4 +1,4 @@
-﻿use crate::Tools::reader;
+﻿use Lib::reader;
 
 // limitation
 // Euclidean algorithm

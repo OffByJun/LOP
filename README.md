@@ -14,3 +14,4 @@ Cargo.toml에 있는 bin 설정의 path를 변경하면 실행이 됩니다
 ### 4. [최소 공배수, 최대 공약수](src/Project_02/GCD_LCM.rs)
 ### 5. [숫자 야구](src/Project_02/num_baseball.rs)
 ### 6. [계단오르기](src/Project_02/stairup.rs)
+### 7. [소수 구하기](src/Project_03/primenum.rs)

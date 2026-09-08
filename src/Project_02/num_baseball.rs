@@ -1,5 +1,5 @@
 ﻿use rand::{rng, RngExt};
-use crate::Tools::reader;
+use Lib::reader;
 
 fn main() {
     let random_num = randomize();
